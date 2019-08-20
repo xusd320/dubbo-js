@@ -1,6 +1,6 @@
 {
   "name": "interpret-util",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "interpret java-jar file to typescript files",
   "main": "./lib/index.js",
   "keywords": [
